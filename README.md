@@ -32,18 +32,21 @@ It is built with **scikit-learn** and can be deployed with **Streamlit** to make
 
 ### ✅ 1. Clone the Repository
 
-```bash
 git clone https://github.com/sufiyan-zamindar/Iris-Flowers-Species-Prediction.git
 cd Iris-Flowers-Species-Prediction
 
-- pip install -r requirements.txt
+### 2. Install requirements
 
-- streamlit run app.py
+pip install -r requirements.txt
+
+### 3. Run with Streamlit
+
+streamlit run app.py
 
 ---
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/https://iris-flowers-species-prediction.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flowers-species-prediction.streamlit.app/)
 
 ---
 
-![Made by Sufiyan](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Sufiyan-blueviolet?style=for-the-badge)
+[![Made by Sufiyan](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Sufiyan-blueviolet?style=for-the-badge)](https://github.com/sufiyan-zamindar)
